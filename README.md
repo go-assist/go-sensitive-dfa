@@ -1,5 +1,4 @@
 # go-sensitive-dfa
-# Helper
 
 ##### 1.golang dfa检测敏感词
 
